@@ -1,6 +1,8 @@
 from operator import truediv
 import string
 import random
+
+"""Hello"""
 class Game:
     def __init__(self):
         self.grid=[]
